@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '40150'
     url: http://www.gutenberg.org/2009/agents/40150
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39674#Buffalo-LandMishaps-of-a-Scientific-and-Sporting-Party-in-the-Wild-West
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Mammals
