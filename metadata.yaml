@@ -1,0 +1,33 @@
+_repo: Buffalo-LandMishaps-of-a-Scientific-and-Sporting-Party-in-the-Wild-West_39674
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Webb, W. E. (William Edward)
+    alias: Webb, William Edward
+    gutenberg_agent_id: '40150'
+    url: http://www.gutenberg.org/2009/agents/40150
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Mammals
+- Animals-Wild-Trapping
+gutenberg_issued: '2012-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39674'
+  lccn: rc01001544
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcsh 'Paleontology -- Kansas'
+- !lcc 'F590.3'
+- !lcsh 'Hunting -- West (U.S.)'
+title: "Buffalo Land\r\nAuthentic Account of the Discoveries, Adventures, and Mishaps\
+  \ of a Scientific and Sporting Party in the Wild West"
+url: http://www.gutenberg.org/ebooks/39674
